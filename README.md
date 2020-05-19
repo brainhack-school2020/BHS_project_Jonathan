@@ -1,14 +1,14 @@
 [![](https://img.shields.io/badge/Visit-our%20project%20page-ff69b4)](https://school.brainhackmtl.org/project/template)
 
-# A template for project reports at BrainHack School
-
-Team contributors: Brainhack School
+# BrainHack School project - Jonathan
+ 
+Team contributors: Brainhack School, Jonathan Gallego
 
 ![BrainHack School](bhs2020.png)
 
 ## Summary 
 
-Each project repository should have a markdown file explaining the background and objectives of the project, as well as a summary of the results, and links to the different deliverables of the project. Project reports are incorporated in the BrainHack School (BHS) [website](https://school.brainhackmtl.org/project). Note that the project summary also involves a number of key words. Those are listed on top of the [GitHub repository](https://github.com/brainhack-school2020/project_template), click `manage topics`.
+Hi!, I'm a first year PhD student at McGill. My project aims to use Python visualization tools for displaying functional connectivity results from MEG and fMRI data.
 
 ## Project definition 
 
