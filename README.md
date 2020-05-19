@@ -8,19 +8,23 @@ Team contributors: Brainhack School, Jonathan Gallego
 
 ## Summary 
 
-Hi!, I'm a first year PhD student at McGill. My project aims to use Python visualization tools for displaying functional connectivity results from MEG and fMRI data.
+Hi!, I'm a first year PhD student at McGill. My project aims to use Python visualization tools for displaying functional connectivity results from MEG and/or fMRI data.
 
 ## Project definition 
 
 ### Background
 
-
+I would like to make use of the tools we have learned during the course. I'm planning to use data from an open access repository in order to explore visualization tools for displaying functional connectivity results. I would love to work with other people so if you have similar interests lets get in touch!
 
 ### Tools 
 
+GitHub: To create a repository with all materials udes for this project.
+Python: To explore data visualization and analysis tools to use on functional connectivity data.
+Jupyter notebook: To document the code used to organize, manage and analyze the data. 
 
 ### Data 
 
+TBD
 
 ### Deliverables
 
@@ -28,10 +32,7 @@ Hi!, I'm a first year PhD student at McGill. My project aims to use Python visua
 
 ### Progress overview
 
-
-
 ### Tools I learned during this project
-
  
 ### Results 
 
