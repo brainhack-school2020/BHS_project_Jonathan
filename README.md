@@ -8,23 +8,28 @@ Team contributors: Brainhack School, Jonathan Gallego
 
 ## Summary 
 
-Hi!, I'm a first year PhD student at McGill. My project aims to use Python visualization tools for displaying functional connectivity results from MEG and/or fMRI data.
+Hi!, I'm a first year PhD student at McGill. My project aims to use Python visualization tools for displaying functional connectivity results from MEG and fMRI data.
 
 ## Project definition 
 
 ### Background
 
-I would like to make use of the tools we have learned during the course. I'm planning to use data from an open access repository in order to explore visualization tools for displaying functional connectivity results. I would love to work with other people so if you have similar interests lets get in touch!
+I would like to make use of the different tools we have learned during the course. I'm planning to use MEG and fMRI data from Human Connectomme Project in order to visualize and analyze  functional connectivity measures. I would love to work with other people so if you have similar interests lets get in touch and maybe we could join projects!
 
 ### Tools 
 
-GitHub: To create a repository with all materials udes for this project.
-Python: To explore data visualization and analysis tools to use on functional connectivity data.
+Human Connectomme Dataset: As the Open data repository from which I will obtain the data form my BHS project
+GitHub: To create a repository compiling all the resources employed for this project.
+Python: To explore data visualization and analysis tools to use on multimodal functional connectivity data.
 Jupyter notebook: To document the code used to organize, manage and analyze the data. 
 
 ### Data 
 
-TBD
+Data from 10 ?? sample subjects from the Human Connectome Project will be used for this project, including:
+Preprocessed high resolution anatomical MR scan
+Preprocessed fMRI resting state data (sesion 1)
+Preprocessed MEG resting state data
+
 
 ### Deliverables
 
