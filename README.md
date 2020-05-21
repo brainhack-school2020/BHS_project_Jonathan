@@ -23,7 +23,7 @@ twitter: @jogaru1818
 
 - After preprocessing the data individually, we can have both modalities in the same coordinate space, parcellate the brain according to a common atlas and extract the MEG and fMRI time-series of each brain region.
 
-- We then could develop some tools to compute connectivity measures and visualize the results from both modalities in parallel!
+- We then could compute some connectivity measures and try to visualize the results from both modalities in parallel!
 
 ### Tools 
 
@@ -65,7 +65,8 @@ After following the corresponding steps with fMRI, we could also obtain a correl
 
 ![fMRI connectivity matrix (example)](descarga.png)
 
-As we have now summarized our data into two simple matrices with the same dimesions we could develop some fancy visualization tools to explore the information provided by each modality, or even to compare the connectivity profile between modalities!
+And now what? Since we have summarized our data into two simple matrices with the same dimesions we could develop some fancy visualization tools to explore the information provided by each modality, or even to make comparisons between modalities!
+
 
 
 
