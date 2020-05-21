@@ -15,13 +15,13 @@ I would love to hear from other people projects, and if we have similar interest
 ## Project definition
 
 ### Background
-Although MEG and fMRI are very different signals, they both reflect some aspects of neuronal ativity
+Although MEG and fMRI are very different signals, they both reflect some aspects of neuronal activity
 
 Functional connectivity assess the statistical dependence between the activity of different brain regions
 
-After preprocessing the data individually, we could have both modalities in the same coordinate space, parcellate the brain according to an atlas and extract the MEG and fMRI time-series of each brain region.
+After preprocessing the data individually, we could have both modalities in the same coordinate space, parcellate the brain according to a common atlas and extract the MEG and fMRI time-series of each brain region.
 
-As we now have condensed the data from our two modalities into two matrices ([N ROIs x N MEG_timepoints] and [N ROIs x N fMRI_timepoints] we could develop some tools to compute connectivity measures and visualize the results from both modalities in parallel!
+Once we have condensed the data from our two modalities into two matrices ([N ROIs x N MEG_timepoints] and [N ROIs x N fMRI_timepoints] we could develop some tools to compute connectivity measures and visualize the results from both modalities in parallel!
 
 ### Tools 
 
@@ -48,16 +48,23 @@ Unprocessed MEG noise recordings
 Anatomical MEG corregistration info
 
 
-### Progress update
+### A brief update
 
 Already dowloaded and started exploring some data
 
 Hands on the MEG data in a familiar environment (Brainstorm)
 
 
+
 After registering the sensors to the structural MRI, preprocessing MEG, taking tha data to source space and extracting the time-series of each brain region from the Desillan Killany atlas (68 ROIs)... Here is an example of how the connectivity (correlation) matrix of a single HCP subject look like:
 
 ![MEG connectivity matrix](Connect_100307.jpg)
+
+
+After following the corresponding steps with fMRI, we could also obtain a connectivity matrix, as the one we saw in last week demonstration
+
+![fMRI connectivity matrix (example)](descarga.png)
+
 
 ### Deliverables
 
