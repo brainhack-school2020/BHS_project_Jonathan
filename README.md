@@ -23,17 +23,17 @@ twitter: @jogaru1818
 
 - After preprocessing the data individually, we can have both modalities in the same coordinate space, parcellate the brain according to a common atlas and extract the MEG and fMRI time-series of each brain region.
 
-- Once we have condensed the data from our two modalities into two matrices ([N ROIs x N MEG_timepoints] and [N ROIs x N fMRI_timepoints] we could develop some tools to compute connectivity measures and visualize the results from both modalities in parallel!
+- W then could develop some tools to compute connectivity measures and visualize the results from both modalities in parallel!
 
 ### Tools 
 
-Human Connectomme Dataset: As the Open data repository from which I will obtain the data form my BHS project
+- Human Connectomme Dataset: As the Open data repository from which I will obtain the data form my BHS project
 
-GitHub: To create a repository compiling all the resources employed for this project.
+- GitHub: To create a repository compiling all the resources employed for this project.
 
-Python: To explore data visualization and analysis tools to use on multimodal functional connectivity data.
+- Python: To explore data visualization and analysis tools to use on multimodal functional connectivity data.
 
-Jupyter notebook: To document the code used to organize, manage and analyze the data. 
+- Jupyter notebook: To document the code used to organize, manage and analyze the data. 
 
 ### Data 
 
