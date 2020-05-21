@@ -8,13 +8,20 @@ Team contributors: Brainhack School, Jonathan Gallego
 
 ## Summary 
 
-Hi!, I'm a first year PhD student at McGill. My project aims to use Python visualization tools for displaying functional connectivity results from both MEG and fMRI data.
+Hi!, I'm a first year PhD student at McGill. My project aims to use some of the visualization tools we have learned for displaying functional connectivity results from both MEG and fMRI data.
+I'm planning  to use data from the Human Connectome Project (https://www.humanconnectome.org)
+I would love to hear from other people projects, and if we have similar interests we could team up!
 
-## Project definition 
+## Project definition
 
 ### Background
+Although MEG and fMRI are very different signals, they both reflect some aspects of neuronal ativity
 
-I would like to make use of the different tools we have learned during the course. I'm planning to use MEG and fMRI data from Human Connectomme Project in order to visualize and analyze  functional connectivity measures. I would love to work with other people so if you have similar interests lets get in touch and maybe we could join projects!
+Functional connectivity assess the statistical dependence between the activity of different brain regions
+
+After preprocessing the data individually, we could have both modalities in the same coordinate space, parcellate the brain according to an atlas and extract the MEG and fMRI time-series of each brain region.
+
+As we now have condensed the data from our two modalities into two matrices ([N ROIs x N MEG_timepoints] and [N ROIs x N fMRI_timepoints] we could develop some tools to compute connectivity measures and visualize the results from both modalities in parallel!
 
 ### Tools 
 
@@ -28,14 +35,29 @@ Jupyter notebook: To document the code used to organize, manage and analyze the 
 
 ### Data 
 
-Data from 10 ?? sample subjects from the Human Connectome Project will be used for this project, including:
+I will be using data from 10 ?? sample subjects from the Human Connectome Project, including:
+
 Preprocessed high resolution anatomical MR scan
+
 Preprocessed fMRI resting state data (sesion 1)
+
 Unprocessed MEG resting state data
 
+Unprocessed MEG noise recordings
 
-![Connectivity matrix example](connectivity_mat_ex.jpg)
-![Connectivity matrix example](connectivity_mat_ex2.jpg)
+Anatomical MEG corregistration info
+
+
+### Progress update
+
+Already dowloaded and started exploring some data
+
+Hands on the MEG data in a familiar environment (Brainstorm)
+
+
+After registering the sensors to the structural MRI, preprocessing MEG, taking tha data to source space and extracting the time-series of each brain region from the Desillan Killany atlas (68 ROIs)... Here is an example of how the connectivity (correlation) matrix of a single HCP subject look like:
+
+![MEG connectivity matrix](Conect_100307.jpg)
 
 ### Deliverables
 
