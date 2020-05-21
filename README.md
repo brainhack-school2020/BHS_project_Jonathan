@@ -23,7 +23,7 @@ twitter: @jogaru1818
 
 - After preprocessing the data individually, we can have both modalities in the same coordinate space, parcellate the brain according to a common atlas and extract the MEG and fMRI time-series of each brain region.
 
-- W then could develop some tools to compute connectivity measures and visualize the results from both modalities in parallel!
+- We then could develop some tools to compute connectivity measures and visualize the results from both modalities in parallel!
 
 ### Tools 
 
