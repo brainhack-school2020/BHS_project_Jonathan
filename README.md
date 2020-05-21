@@ -57,7 +57,7 @@ Hands on the MEG data in a familiar environment (Brainstorm)
 
 After registering the sensors to the structural MRI, preprocessing MEG, taking tha data to source space and extracting the time-series of each brain region from the Desillan Killany atlas (68 ROIs)... Here is an example of how the connectivity (correlation) matrix of a single HCP subject look like:
 
-![MEG connectivity matrix](Conect_100307.jpg)
+![MEG connectivity matrix](Connect_100307.jpg)
 
 ### Deliverables
 
