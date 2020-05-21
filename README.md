@@ -37,7 +37,7 @@ twitter: @jogaru1818
 
 ### Data 
 
-I will be using data from 10 ?? sample subjects from the Human Connectome Project, including:
+I will be using data from a small sample of subjects from the Human Connectome Project, including:
 
 - Preprocessed high resolution anatomical MR scan
 
