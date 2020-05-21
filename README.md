@@ -11,17 +11,19 @@ Team contributors: Jonathan Gallego, Brainhack School
 Hi!, I'm a first year PhD student at McGill. My BHS project aims to use some of the visualization tools we have learned for displaying functional connectivity results from both MEG and fMRI data.
 I'm planning  to use data from the Human Connectome Project (https://www.humanconnectome.org).
 I would love to hear from other people projects, and if we have similar interests we could team up!
+twitter: @jogaru1818
 
 ## Project definition
 
 ### Background
-Although MEG and fMRI are very different signals, they both reflect some aspects of neuronal activity
 
-Functional connectivity assess the statistical dependence between the activity (time-series) of different brain regions
+-Although MEG and fMRI are very different signals, they both reflect some aspects of neuronal activity
 
-After preprocessing the data individually, we can have both modalities in the same coordinate space, parcellate the brain according to a common atlas and extract the MEG and fMRI time-series of each brain region.
+-Functional connectivity assess the statistical dependence between the activity (time-series) of different brain regions
 
-Once we have condensed the data from our two modalities into two matrices ([N ROIs x N MEG_timepoints] and [N ROIs x N fMRI_timepoints] we could develop some tools to compute connectivity measures and visualize the results from both modalities in parallel!
+-After preprocessing the data individually, we can have both modalities in the same coordinate space, parcellate the brain according to a common atlas and extract the MEG and fMRI time-series of each brain region.
+
+-Once we have condensed the data from our two modalities into two matrices ([N ROIs x N MEG_timepoints] and [N ROIs x N fMRI_timepoints] we could develop some tools to compute connectivity measures and visualize the results from both modalities in parallel!
 
 ### Tools 
 
@@ -37,15 +39,15 @@ Jupyter notebook: To document the code used to organize, manage and analyze the 
 
 I will be using data from 10 ?? sample subjects from the Human Connectome Project, including:
 
-Preprocessed high resolution anatomical MR scan
+- Preprocessed high resolution anatomical MR scan
 
-Preprocessed fMRI resting state data (sesion 1)
+- Preprocessed fMRI resting state data (sesion 1)
 
-Unprocessed MEG resting state data
+- Unprocessed MEG resting state data
 
-Unprocessed MEG noise recordings
+- Unprocessed MEG noise recordings
 
-Anatomical info for MEG registration.
+- Anatomical info for MEG registration.
 
 
 ### A brief example of what I mean...
@@ -69,13 +71,13 @@ As we have now summarized our data into two simple matrices with the same dimesi
 
 ### What I want to learn
 
-To manage and analyze data in Python 
+- To manage and analyze data in Python 
 
-Use some tools for neuroimaging analysis (such as nilearn)
+- Use some tools for neuroimaging analysis (such as nilearn)
 
-Try different visualization libraries 
+- Try different visualization libraries 
 
-"Live the experience" of collaborating with others through GitHub
+- "Live the experience" of collaborating with others through GitHub
 
 
 ### Deliverables
