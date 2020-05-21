@@ -40,7 +40,7 @@ Preprocessed MEG resting state data
 A set of jupyter notebooks containing code to implement tools for visualization of functional connectivity results
 
 
-![BrainHack School](connectivity_mat_ex.png)
+![Connectivity matrix example](/brainhack-school2020/BHS_project_Jonathan/connectivity_mat_ex.png)
 
 ## Results 
 
