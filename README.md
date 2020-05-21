@@ -1,6 +1,6 @@
 [![](https://img.shields.io/badge/Visit-our%20project%20page-ff69b4)](https://school.brainhackmtl.org/project/template)
 
-# Visualization of functional connectivity from multimodal neuroimaging data of the HCP - Jonathan
+# Visualization of functional connectivity from multimodal neuroimaging data - Jonathan
  
 Team contributors: Jonathan Gallego, Brainhack School
 
