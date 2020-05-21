@@ -9,7 +9,7 @@ Team contributors: Jonathan Gallego, Brainhack School
 ## Summary 
 
 Hi!, I'm a first year PhD student at McGill. My BHS project aims to use some of the visualization tools we have learned for displaying functional connectivity results from both MEG and fMRI data.
-I'm planning  to use data from the Human Connectome Project (https://www.humanconnectome.org)
+I'm planning  to use data from the Human Connectome Project (https://www.humanconnectome.org).
 I would love to hear from other people projects, and if we have similar interests we could team up!
 
 ## Project definition
@@ -17,9 +17,9 @@ I would love to hear from other people projects, and if we have similar interest
 ### Background
 Although MEG and fMRI are very different signals, they both reflect some aspects of neuronal activity
 
-Functional connectivity assess the statistical dependence between the activity of different brain regions
+Functional connectivity assess the statistical dependence between the activity (time-series) of different brain regions
 
-After preprocessing the data individually, we could have both modalities in the same coordinate space, parcellate the brain according to a common atlas and extract the MEG and fMRI time-series of each brain region.
+After preprocessing the data individually, we can have both modalities in the same coordinate space, parcellate the brain according to a common atlas and extract the MEG and fMRI time-series of each brain region.
 
 Once we have condensed the data from our two modalities into two matrices ([N ROIs x N MEG_timepoints] and [N ROIs x N fMRI_timepoints] we could develop some tools to compute connectivity measures and visualize the results from both modalities in parallel!
 
@@ -45,7 +45,7 @@ Unprocessed MEG resting state data
 
 Unprocessed MEG noise recordings
 
-Anatomical MEG corregistration info
+Anatomical info for MEG registration.
 
 
 ### A brief example of what I mean...
@@ -62,6 +62,10 @@ After registering the sensors to the structural MRI, preprocessing MEG, taking t
 After following the corresponding steps with fMRI, we could also obtain a correlation connectivity matrix, as the one we saw in last week demonstration
 
 ![fMRI connectivity matrix (example)](descarga.png)
+
+As we have now summarized our data into two simple matrices with the same dimesions we could develop some fancy visualization tools to explore the information provided by each modality, or even to compare the connectivity profile between modalities!
+
+
 
 ### Deliverables
 
