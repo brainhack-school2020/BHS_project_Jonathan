@@ -31,16 +31,16 @@ Jupyter notebook: To document the code used to organize, manage and analyze the 
 Data from 10 ?? sample subjects from the Human Connectome Project will be used for this project, including:
 Preprocessed high resolution anatomical MR scan
 Preprocessed fMRI resting state data (sesion 1)
-Preprocessed MEG resting state data
-
-
-
-### Deliverables
-
-A set of jupyter notebooks containing code to implement tools for visualization of functional connectivity results
+Unprocessed MEG resting state data
 
 
 ![Connectivity matrix example](connectivity_mat_ex.jpg)
+![Connectivity matrix example](connectivity_mat_ex2.jpg)
+
+### Deliverables
+
+A set of jupyter notebooks containing code to implement tools for visualization of functional connectivity results that apply to both modalities
+
 
 ## Results 
 
