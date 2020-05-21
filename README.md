@@ -68,10 +68,15 @@ As we have now summarized our data into two simple matrices with the same dimesi
 
 
 ### What I want to learn
+
 To manage and analyze data in Python 
+
 Use some tools for neuroimaging analysis (such as nilearn)
+
 Try different visualization libraries 
+
 "Live the experience" of collaborating with others through GitHub
+
 
 ### Deliverables
 
