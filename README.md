@@ -1,14 +1,14 @@
 [![](https://img.shields.io/badge/Visit-our%20project%20page-ff69b4)](https://school.brainhackmtl.org/project/template)
 
-# BrainHack School project - Jonathan
+# Visualization of functional connectivity from multimodal neuroimaging data of the HCP - Jonathan
  
-Team contributors: Brainhack School, Jonathan Gallego
+Team contributors: Jonathan Gallego, Brainhack School
 
 ![BrainHack School](bhs2020.png)
 
 ## Summary 
 
-Hi!, I'm a first year PhD student at McGill. My project aims to use some of the visualization tools we have learned for displaying functional connectivity results from both MEG and fMRI data.
+Hi!, I'm a first year PhD student at McGill. My BHS project aims to use some of the visualization tools we have learned for displaying functional connectivity results from both MEG and fMRI data.
 I'm planning  to use data from the Human Connectome Project (https://www.humanconnectome.org)
 I would love to hear from other people projects, and if we have similar interests we could team up!
 
@@ -48,23 +48,20 @@ Unprocessed MEG noise recordings
 Anatomical MEG corregistration info
 
 
-### A brief update
+### A brief example of what I mean...
 
 Already dowloaded and started exploring some data
 
 Hands on the MEG data in a familiar environment (Brainstorm)
-
-
 
 After registering the sensors to the structural MRI, preprocessing MEG, taking tha data to source space and extracting the time-series of each brain region from the Desillan Killany atlas (68 ROIs)... Here is an example of how the connectivity (correlation) matrix of a single HCP subject look like:
 
 ![MEG connectivity matrix](Connect_100307.jpg)
 
 
-After following the corresponding steps with fMRI, we could also obtain a connectivity matrix, as the one we saw in last week demonstration
+After following the corresponding steps with fMRI, we could also obtain a correlation connectivity matrix, as the one we saw in last week demonstration
 
 ![fMRI connectivity matrix (example)](descarga.png)
-
 
 ### Deliverables
 
@@ -81,10 +78,7 @@ A set of jupyter notebooks containing code to implement tools for visualization 
 
 #### Deliverable 1: report template
 
-
 #### Deliverable 2: project gallery
-
-
  
 ## Conclusion and acknowledgement
 
