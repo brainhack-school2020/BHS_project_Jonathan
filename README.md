@@ -17,13 +17,13 @@ twitter: @jogaru1818
 
 ### Background
 
--Although MEG and fMRI are very different signals, they both reflect some aspects of neuronal activity
+- Although MEG and fMRI are very different signals, they both reflect some aspects of neuronal activity
 
--Functional connectivity assess the statistical dependence between the activity (time-series) of different brain regions
+- Functional connectivity assess the statistical dependence between the activity (time-series) of different brain regions
 
--After preprocessing the data individually, we can have both modalities in the same coordinate space, parcellate the brain according to a common atlas and extract the MEG and fMRI time-series of each brain region.
+- After preprocessing the data individually, we can have both modalities in the same coordinate space, parcellate the brain according to a common atlas and extract the MEG and fMRI time-series of each brain region.
 
--Once we have condensed the data from our two modalities into two matrices ([N ROIs x N MEG_timepoints] and [N ROIs x N fMRI_timepoints] we could develop some tools to compute connectivity measures and visualize the results from both modalities in parallel!
+- Once we have condensed the data from our two modalities into two matrices ([N ROIs x N MEG_timepoints] and [N ROIs x N fMRI_timepoints] we could develop some tools to compute connectivity measures and visualize the results from both modalities in parallel!
 
 ### Tools 
 
