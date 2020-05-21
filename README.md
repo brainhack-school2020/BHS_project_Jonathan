@@ -34,11 +34,13 @@ Preprocessed fMRI resting state data (sesion 1)
 Preprocessed MEG resting state data
 
 
+
 ### Deliverables
 
 A set of jupyter notebooks containing code to implement tools for visualization of functional connectivity results
 
 
+![Connectivity matrix example](connectivity_mat_ex.jpg)
 
 ## Results 
 
