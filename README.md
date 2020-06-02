@@ -8,10 +8,16 @@ Team contributors: Jonathan Gallego, Brainhack School
 
 ## Summary 
 
+<<<<<<< HEAD
 - Hi!, I'm a first year PhD student at McGill. My BHS project aims to use some of the visualization tools we have learned for displaying functional connectivity results from both MEG and fMRI data.
 - I'm using data from 12 sample subjects from the Human Connectome Project (https://www.humanconnectome.org).
 - I would love to hear from other people projects and see what they have achieved so far!
 
+=======
+Hi!, I'm a first year PhD student at McGill. My BHS project aims to use some of the tools we have learned for displaying functional connectivity results from both MEG and fMRI data.
+I'm planning  to use data from the Human Connectome Project (https://www.humanconnectome.org).
+I would love to hear from other people projects, and if we have similar interests we could team up!
+>>>>>>> c938e1d0fdd68e686c87ea366b6f87bcf283d460
 twitter: @jogaru1818
 
 ### What I wanted to learn
@@ -31,7 +37,17 @@ twitter: @jogaru1818
 - After preprocessing the data individually, we can have both modalities in the same coordinate space, parcellate the brain according to a common atlas and extract the MEG and fMRI time-series of each brain region.
 - We then could then compute connectivity measures and visualize the results from both modalities in parallel!
 
+<<<<<<< HEAD
 ### Tools I employed
+=======
+- We then could compute some connectivity measures and try to visualize the results from both modalities in parallel!
+
+### Tools 
+
+- Human Connectomme Dataset: As the Open data repository from which I will obtain the data form my BHS project
+
+- GitHub: To create a repository compiling all the resources employed for this project.
+>>>>>>> c938e1d0fdd68e686c87ea366b6f87bcf283d460
 
 - Human Connectomme Dataset: As the Open data repository I used for my BHS project
 - Git: to keep version control of my files 
@@ -42,7 +58,13 @@ twitter: @jogaru1818
 
 ### Data specifications
 
+<<<<<<< HEAD
 For these project I used data from 12 sample subjects from the Human Connectome Project, including:
+=======
+### Data 
+
+I will be using data from a small sample of subjects from the Human Connectome Project, including:
+>>>>>>> c938e1d0fdd68e686c87ea366b6f87bcf283d460
 
 - Preprocessed high resolution anatomical MR scan
 - Preprocessed fMRI resting state data (sesion 1)
@@ -50,8 +72,42 @@ For these project I used data from 12 sample subjects from the Human Connectome 
 - Unprocessed MEG noise recordings
 - Anatomical info for MEG registration.
 
+<<<<<<< HEAD
 These data can be easily downloaded after creating an account and accessing the Human Connectome Project database (https://db.humanconnectome.org/).
 The HCP_data_dowload.md file contains a brief set of instructions of how to get the specific data used for this project
+=======
+
+### A brief example of what I mean...
+
+Already dowloaded and started exploring some data
+
+Hands on the MEG data in a familiar environment (Brainstorm)
+
+After registering the sensors to the structural MRI, preprocessing MEG, taking tha data to source space and extracting the time-series of each brain region from the Desillan Killany atlas (68 ROIs)... Here is an example of how the connectivity (correlation) matrix of a single HCP subject look like:
+
+![MEG connectivity matrix](Connect_100307.jpg)
+
+
+After following the corresponding steps with fMRI, we could also obtain a correlation connectivity matrix, as the one we saw in last week demonstration
+
+![fMRI connectivity matrix (example)](descarga.png)
+
+And now what? Since we have summarized our data into two simple matrices with the same dimesions we could develop some fancy visualization tools to explore the information provided by each modality, or even to make comparisons between modalities!
+
+
+
+
+### What I want to learn
+
+- To manage and analyze data in Python 
+
+- Use some tools for neuroimaging analysis (such as nilearn)
+
+- Try different visualization libraries 
+
+- "Live the experience" of collaborating with others through GitHub
+
+>>>>>>> c938e1d0fdd68e686c87ea366b6f87bcf283d460
 
 ### Deliverables
 
