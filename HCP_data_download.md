@@ -1,3 +1,3 @@
-# Instructions to download data from the Humand Conectomme database - Jonathan
+# Instructions to download data from the Human Conectomme database - Jonathan
  
 Team contributors: Jonathan Gallego, Brainhack School
