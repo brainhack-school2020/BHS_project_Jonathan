@@ -12,7 +12,7 @@ Team contributors: Jonathan Gallego, Brainhack School
 - I'm using data from 12 sample subjects from the Human Connectome Project (https://www.humanconnectome.org).
 - I would love to hear from other people projects and see what they have achieved so far!
 
-twitter: @jogaru1818
+Twitter: @jogaru1818
 
 ### What I wanted to learn
 
