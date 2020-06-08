@@ -14,9 +14,9 @@ Team contributors: Jonathan Gallego, Brainhack School
 
 - For this project, we used a small subsample of 12 subjects from this release, including the first 6 male and 6 female subjects that had all the desired data available (unprocessed MEG, processed MEG, MEG anatomy, MRI structural data, preprocessed fMRI data). 
 
--The subjects that we used for this project were:
+- The subjects used for this project were:
 
- 100307, 102816, 105923, 106521, 108323, 109123, 111514, 112920, 113922, 116524, 116726, 133019
+- 100307, 102816, 105923, 106521, 108323, 109123, 111514, 112920, 113922, 116524, 116726, 133019
 
 - To download the data from one subject, click on the id to access the subject folder, then click on the Download images button on the right side of the screen
 
