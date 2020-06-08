@@ -70,3 +70,8 @@ A GitHub repository containing a small set of md files and jupyter notebooks doc
 ## Conclusion and acknowledgement
 
 The BHS team hope you will find this template helpful in documenting your project. Developping this template was a group effort, and benefitted from the feedback and ideas of all BHS students over the years.
+
+## LINK TO WEEK 3 DERIVABLE
+Here is the link for the notebook containing the code to generate
+the interactive figure produced as the derivable for week 3
+https://github.com/brainhack-school2020/jogaru1818_BHS/blob/master/week_3_derivable_Jonathan_Gallego.ipynb 
