@@ -2,7 +2,7 @@
  
 Team contributors: Jonathan Gallego, Brainhack School
 
-![Brainstorm image](brainstorm.png)
+![Brainstorm image](brainstorm.jpg)
 
 ## This file summarizes the steps taken to preprocess the raw MEG data downloaded from the HCP database
 
