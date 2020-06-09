@@ -2,6 +2,8 @@
  
 Team contributors: Jonathan Gallego, Brainhack School
 
+![Brainstorm image](brainstorm.png)
+
 ## This file summarizes the steps taken to preprocess the raw MEG data downloaded from the HCP database
 
 - MEG data preprocessing was conducted in Brainstorm, a Matlab-based open software (https://neuroimage.usc.edu/brainstorm/Introduction)
