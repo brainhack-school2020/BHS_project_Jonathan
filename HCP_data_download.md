@@ -2,6 +2,8 @@
  
 Team contributors: Jonathan Gallego, Brainhack School
 
+![BrainHack School](hcp.jpg)
+
 ## This files describes the required steps for downloading data from the HCP database
 
 - The first step is to access the HCP database website (https://db.humanconnectome.org/) and create an account in order to be able to access to the data
@@ -22,8 +24,8 @@ Team contributors: Jonathan Gallego, Brainhack School
 
 - Click on the "+" icon next to the derivables you want to download them to add them to the cue
 
-- After selecting yo files click on the Download Packages button
+- After selecting your files click on the Download Packages button
 
-- You will be prompted to install the Aspera Connect plugin in your browser in order to download the data. Install and activate the plugin
+- You will be prompted to install the Aspera Connect plugin in your browser in order to download the data. Install and activate the plugin on the extensions menu from your browser settings
 
 - Once you finished downloading all the data, you will need to extract the files to access the content
