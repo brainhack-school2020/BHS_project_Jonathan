@@ -2,7 +2,7 @@
  
 Team contributors: Jonathan Gallego, Brainhack School
 
-![BrainHack School](hcp.jpg)
+![HCP logo](hcp.jpg)
 
 ## This files describes the required steps for downloading data from the HCP database
 
