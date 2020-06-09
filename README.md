@@ -8,8 +8,8 @@ Team contributors: Jonathan Gallego, Brainhack School
 
 ## Summary 
 
-- Hi!, I'm a first year PhD student at McGill. My BHS project aims to use some of the visualization tools we have learned for displaying functional connectivity results from both MEG and fMRI data.
-- I'm using data from 12 sample subjects from the Human Connectome Project (https://www.humanconnectome.org).
+- Hi!, I'm a first year PhD student at McGill. My BHS project aimed to use some of the visualization tools we have learned to display functional connectivity results from both MEG and fMRI data.
+- I used data from 12 sample subjects from the Human Connectome Project (https://www.humanconnectome.org).
 - I would love to hear from other people projects and see what they have achieved so far!
 
 Twitter: @jogaru1818
