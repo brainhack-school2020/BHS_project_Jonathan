@@ -67,10 +67,12 @@ A GitHub repository containing a small set of md files and jupyter notebooks doc
 
 3 For the fMRI data, I opted to use the preprocessed images. I employed functions from nilearn to load the brain parcellations of the Destrieux atlas and the preprocessed fMRI data. As the HCP resting state fMRI consist on 1200 3d brain volumes, loading all the dataset at the same time may cause memory saturation on a regular machine. Therefore, I segmented the nifti files into smaller chunks of data, and created a python code to load each chunk at the time, extract the fMRI timeseries of each scout and concatenated the data for each subject and then from all subjects, and save it into a single matrix. The code used to extract the time series from the fMRI data is contained in the fMRI_timeseries.ipynb jupyter notebook.
 
-![fMRI_example_matrix](fmri_matrix_example.png)
-
 4 After having extracted the MEG and fMRI timeseries from the scouts of the atlas I ellaborated a simple code to create a couple of interactive figures to display the functional connectivity matrices and graphs I obtained from the data. These interactive figures allow to easily navigate through the data from all subjects and switch between modalities. The final output of steps 2 and 3 is stored in the all_subjects_time_series_meg.txt and all_subjects_time_series_fmri.txt files, which contain the extracted timeseries of all subjects, for each modality. This last step loads these files, and use a combination of nilearn tools and ipywidgets to create and display an interactive figure within a jupyter notebook. 
 
+An example of the fMRI connectivity matrix of Subject 1
+![fMRI_example_matrix](fmri_matrix_example.png)
+
+An example of the MEG delta band connectivity matrix of Subject 1
 ![MEG_matrix_example](meg_matrix_example.png)
  
 ## Conclusion and acknowledgement
